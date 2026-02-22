@@ -1,6 +1,6 @@
 # 👋 About Me
 
-AI Engineer with 3 years of experience architecting and deploying intelligent systems on cloud infrastructure. I work across LLMs, probabilistic inference, robotics, and applied machine learning to support real-world decision-making.
+AI/ML Research Engineer with 3 years of experience architecting and deploying intelligent systems on cloud infrastructure. I work across LLMs, probabilistic inference, robotics, and applied machine learning to support real-world decision-making.
 
 ---
 
