@@ -1,6 +1,6 @@
 # 👋 About Me
 
-AI Engineer focused on building and deploying intelligent systems across cloud-based systems. I explore large language models, probabilistic reasoning, robotics, and applied machine learning.
+AI Engineer with 3 years of experience architecting and deploying intelligent systems on cloud infrastructure. I work across LLMs, probabilistic inference, robotics, and applied machine learning to support real-world decision-making.
 
 ---
 
