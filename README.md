@@ -6,7 +6,8 @@ AI/ML Research Engineer with 3 years of experience architecting and deploying in
 
 ## 🧠 Core Focus
 
-- LLM Alignment & Evaluation  
+- LLM Alignment & Evaluation
+- RAG systems
 - Bayesian & Causal Modeling  
 - Multimodal Learning 
 - Robotics Research
