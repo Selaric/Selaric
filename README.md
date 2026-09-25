@@ -10,18 +10,19 @@
 ### 🧠 About Me
 
 🎓 MS in Artificial Intelligence @ University of Michigan (2026)
-🏗️ AI & Automation Engineer @ Nokia — deploying production AI agents on NVIDIA H100 NVL GPU cluster
-📄 Published: *Multi-Modal Contactless Battery Sensing*, ACM e-Energy 2026
+🏗️ AI & Automation Engineer @ Nokia — deploying production AI agents on NVIDIA H100 NVL GPU clusters
+📄 Published: Multi-Modal Contactless Battery Sensing, ACM e-Energy 2026
 
 Currently exploring:
-- 🧠 LLM Alignment & Evaluation
-- ⚡ GPU Inference & Speculative Decoding
-- 🤖 Robotics + ROS Systems
-- 📊 Causal Machine Learning
-- ⚙️ Agentic AI Workflows
+- LLM Alignment & Evaluation
+- GPU Inference & Speculative Decoding
+- Causal Machine Learning
+- Agentic AI Workflows
+- Market Microstructure & Toxic-Flow-Aware Execution
 
 ### 🔬 Current Work
 
+-Toxic-Flow-Aware Execution Agent — estimating P(toxic | order-book state) and using it to improve sell-side execution vs classical baselines (TWAP / Almgren-Chriss)
 - Deploying and orchestrating AI inference workloads on NVIDIA H100 GPU clusters with Kubernetes & Docker
 - Building MLOps pipelines (MLflow tracking, CI/CD model promotion) for production model serving
 - Fine-tuning small language models (SLMs) for log analysis and automated triage
