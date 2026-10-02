@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selase Eric Doku</h1>
-<h3 align="center">AI/ML Engineer | LLM Research & Evaluation | Robotics Systems | Causal ML Explorer</h3>
+<h3 align="center">AI/ML Engineer | LLM Research & Evaluation | Robotics Systems | Causal ML Explorer | Quantitative Research</h3>
 
 <p align="center">
   Building intelligent systems from research idea → production deployment.
